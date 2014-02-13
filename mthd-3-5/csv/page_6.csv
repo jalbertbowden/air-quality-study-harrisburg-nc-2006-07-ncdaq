@@ -1,0 +1,40 @@
+Name: “Table 1 of 1 on page 6 of 35”,Name: “Table 1 of 1 on page 6 of 35”,Name: “Table 1 of 1 on page 6 of 35”,Name: “Table 1 of 1 on page 6 of 35”
+Table: 6,Table: 6,Table: 6,Table: 6
+,,,
+Method IO-3.5,Method IO-3.5,,Chapter IO-3
+ICP/MS Methodology,ICP/MS Methodology,ICP/MS Methodology,Chemical Analysis
+2.,Applicable Documents,Applicable Documents,
+2.1,ASTM Standards,ASTM Standards,
+,•,D1356 Definition of Terms Related to Atmospheric Sampling and Analysis.,
+,•,D1357 Planning the Sampling of the Ambient Atmosphere.,
+,•,D4096 Application of the High Volume Sample Method for Collection and Mass Determination of,D4096 Application of the High Volume Sample Method for Collection and Mass Determination of
+,,Airborne Particle Matter.,
+2.2,Other Documents,Other Documents,
+,•,"U. S. Environmental Protection Agency, Quality Assurance Handbook for Air Pollution Measurement","U. S. Environmental Protection Agency, Quality Assurance Handbook for Air Pollution Measurement"
+,,"Systems, Volume I: A Field Guide for Environmental Quality Assurance, EPA-600/R-94-038a.","Systems, Volume I: A Field Guide for Environmental Quality Assurance, EPA-600/R-94-038a."
+,•,"U. S. Environmental Protection Agency, Quality Assurance Handbook for Air Pollution Measurement","U. S. Environmental Protection Agency, Quality Assurance Handbook for Air Pollution Measurement"
+,,"Systems, Volume II: Ambient Air Specific Methods (Interim Edition), EPA-600/R-94/038b.",
+,•,"Reference Method for the Determination of Particulate Matter in the Atmosphere, Code of Federal","Reference Method for the Determination of Particulate Matter in the Atmosphere, Code of Federal"
+,,"Regulations. 40 CFR 50, Appendix J.",
+,•,Reference Method for the Determination of Suspended Particulates in the Atmosphere (High Volume,Reference Method for the Determination of Suspended Particulates in the Atmosphere (High Volume
+,,"Method), Code of Federal Regulations. 40 CFR 50, Appendix B.",
+,•,Reference Method for the Determination of Lead in Suspended Particulate Matter Collected from,Reference Method for the Determination of Lead in Suspended Particulate Matter Collected from
+,,"Ambient Air, Federal Register 43 (194): 46258-46261.",
+,•,U. S. EPA Project Summary Document (1).,
+,•,U. S. EPA Laboratory Standard Operating Procedures (2).,
+,•,Scientific Publications of Ambient Air Studies (3-14).,
+3.,Summary of Method,Summary of Method,
+3.1,The method describes the multi-element determination of trace elements by ICP/MS. Sample material,The method describes the multi-element determination of trace elements by ICP/MS. Sample material,The method describes the multi-element determination of trace elements by ICP/MS. Sample material
+in solution is introduced by pneumatic nebulization into a radiofrequency plasma where energy transfer,in solution is introduced by pneumatic nebulization into a radiofrequency plasma where energy transfer,in solution is introduced by pneumatic nebulization into a radiofrequency plasma where energy transfer,in solution is introduced by pneumatic nebulization into a radiofrequency plasma where energy transfer
+"processes cause desolvation, atomization, and ionization.","processes cause desolvation, atomization, and ionization.","processes cause desolvation, atomization, and ionization.",
+3.2 The ions are extracted from the plasma through a differentially pumped vacuum interface and separated,3.2 The ions are extracted from the plasma through a differentially pumped vacuum interface and separated,3.2 The ions are extracted from the plasma through a differentially pumped vacuum interface and separated,3.2 The ions are extracted from the plasma through a differentially pumped vacuum interface and separated
+on the basis of their mass-to-charge ratio by a quadrupole mass spectrometer having a minimum resolution,on the basis of their mass-to-charge ratio by a quadrupole mass spectrometer having a minimum resolution,on the basis of their mass-to-charge ratio by a quadrupole mass spectrometer having a minimum resolution,on the basis of their mass-to-charge ratio by a quadrupole mass spectrometer having a minimum resolution
+capability of 1 amu peak width at 5% peak height.,capability of 1 amu peak width at 5% peak height.,capability of 1 amu peak width at 5% peak height.,
+3.3 The ions transmitted through the quadruple are registered by a continuous dynode electron multiplier or,3.3 The ions transmitted through the quadruple are registered by a continuous dynode electron multiplier or,3.3 The ions transmitted through the quadruple are registered by a continuous dynode electron multiplier or,3.3 The ions transmitted through the quadruple are registered by a continuous dynode electron multiplier or
+Faraday detector and the ion information processed by a data handling system.,Faraday detector and the ion information processed by a data handling system.,Faraday detector and the ion information processed by a data handling system.,
+3.4,Interferences relating to the technique (see Section 5) must be recognized and corrected for.,Interferences relating to the technique (see Section 5) must be recognized and corrected for.,Such
+corrections must include compensation for isobaric elemental interferences and interferences from polyatomic,corrections must include compensation for isobaric elemental interferences and interferences from polyatomic,corrections must include compensation for isobaric elemental interferences and interferences from polyatomic,corrections must include compensation for isobaric elemental interferences and interferences from polyatomic
+"ions derived from the plasma gas, air, reagents, or sample matrix. Instrumental drift as well as suppressions","ions derived from the plasma gas, air, reagents, or sample matrix. Instrumental drift as well as suppressions","ions derived from the plasma gas, air, reagents, or sample matrix. Instrumental drift as well as suppressions","ions derived from the plasma gas, air, reagents, or sample matrix. Instrumental drift as well as suppressions"
+or enhancements of instrument response caused by the sample matrix must be corrected for by internal,or enhancements of instrument response caused by the sample matrix must be corrected for by internal,or enhancements of instrument response caused by the sample matrix must be corrected for by internal,or enhancements of instrument response caused by the sample matrix must be corrected for by internal
+standardization.,standardization.,,
+Page 3.5-2,Page 3.5-2,Compendium of Methods for Inorganic Air Pollutants,June 1999

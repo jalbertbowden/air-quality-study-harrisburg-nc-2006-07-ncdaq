@@ -1,0 +1,36 @@
+Name: “Table 1 of 1 on page 29 of 35”,Name: “Table 1 of 1 on page 29 of 35”,Name: “Table 1 of 1 on page 29 of 35”
+Table: 29,Table: 29,Table: 29
+,,
+Chapter IO-3,,Method IO-3.5
+Chemical Analysis,,ICP/MS Methodology
+TABLE 3. EXAMPLE INSTRUMENT OPERATING CONDITIONS,TABLE 3. EXAMPLE INSTRUMENT OPERATING CONDITIONS,TABLE 3. EXAMPLE INSTRUMENT OPERATING CONDITIONS
+Instrument,VG PlasmaQuad Type I,
+Plasma forward power,1.35 kW,
+Coolant flow rate,13.5 L/min,
+Auxiliary flow rate,0.6 L/min,
+Nebulizer flow rate,0.78 L/min,
+Solution uptake rate,0.6 mL/min,
+Spray chamber temperature,15EC,
+Data Acquisition,,
+Detector mode,Pulse counting,
+Replicate integrations,3,
+Mass range,8 - 240 amu,
+Dwell time,320 μs,
+Number of MCA channels,2048,
+Number of scan sweeps,85,
+Total acquisition time,3 min per sample,
+TABLE 4. INTERNAL STANDARDS AND LIMITATIONS OF USE,TABLE 4. INTERNAL STANDARDS AND LIMITATIONS OF USE,TABLE 4. INTERNAL STANDARDS AND LIMITATIONS OF USE
+Internal Standard,Mass,Possible Limitation
+Lithium,6,a
+Scandium,45,polyatomic ion interference
+Yttrium,89,"a,b"
+Rhodium,103,
+Indium,115,isobaric interference by Sn
+Terbium,159,
+Holmium,165,
+Lutetium,175,
+Bismuth,209,a
+aMay be present in environmental samples.,,
+"bIn some instruments yttrium may form measurable amounts of YO+ (105 amu) and YOH+ (106 amu). If this is the case, care","bIn some instruments yttrium may form measurable amounts of YO+ (105 amu) and YOH+ (106 amu). If this is the case, care","bIn some instruments yttrium may form measurable amounts of YO+ (105 amu) and YOH+ (106 amu). If this is the case, care"
+should be taken in the use of the cadmium elemental correction equation.,should be taken in the use of the cadmium elemental correction equation.,
+June 1999,Compendium of Methods for Inorganic Air Pollutants,Page 3.5-25

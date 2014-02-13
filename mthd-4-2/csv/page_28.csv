@@ -1,0 +1,51 @@
+Name: “Table 1 of 1 on page 28 of 68”,Name: “Table 1 of 1 on page 28 of 68”,Name: “Table 1 of 1 on page 28 of 68”,Name: “Table 1 of 1 on page 28 of 68”,Name: “Table 1 of 1 on page 28 of 68”
+Table: 28,Table: 28,Table: 28,Table: 28,Table: 28
+,,,,
+Method IO-4.2,Method IO-4.2,Method IO-4.2,,Chapter IO-4
+Acidic/Basic Constituents,Acidic/Basic Constituents,Acidic/Basic Constituents,,Atmospheric Acidic
+"1 ppm, comparability will normally be within 5% or better. Old standards are assumed correct since they","1 ppm, comparability will normally be within 5% or better. Old standards are assumed correct since they","1 ppm, comparability will normally be within 5% or better. Old standards are assumed correct since they","1 ppm, comparability will normally be within 5% or better. Old standards are assumed correct since they","1 ppm, comparability will normally be within 5% or better. Old standards are assumed correct since they"
+are referenced to the entire historical series of previous standard solutions all of which are comparable.],are referenced to the entire historical series of previous standard solutions all of which are comparable.],are referenced to the entire historical series of previous standard solutions all of which are comparable.],are referenced to the entire historical series of previous standard solutions all of which are comparable.],are referenced to the entire historical series of previous standard solutions all of which are comparable.]
+17.4.4,17.4.4,System Shut-down.,,
+,17.4.4.1,Shut off the pump.,Turn the REGEN switch and the conductivity cell to the OFF position.,Turn the REGEN switch and the conductivity cell to the OFF position.
+,17.4.4.2,Switch the eluent degas switch to HIGH.,,
+,17.4.4.3 Turn the stripchart recorder OFF.,17.4.4.3 Turn the stripchart recorder OFF.,Cap the pen.,Press the F10 function key on the computer.
+Select option 3 to exit to DOS.,Select option 3 to exit to DOS.,Select option 3 to exit to DOS.,Shut off the printer and the computer.,
+,17.4.4.4 Shut the eluent degas system and reservoir switches and the autosampler to the OFF position.,17.4.4.4 Shut the eluent degas system and reservoir switches and the autosampler to the OFF position.,17.4.4.4 Shut the eluent degas system and reservoir switches and the autosampler to the OFF position.,17.4.4.4 Shut the eluent degas system and reservoir switches and the autosampler to the OFF position.
+Close the valves on both gas cylinders.,Close the valves on both gas cylinders.,Close the valves on both gas cylinders.,Close the regulator valves.,
+17.5,Basic Troubleshooting,Basic Troubleshooting,,
+"Before proceeding with the troubleshooting guide, make sure the reagents used were prepared correctly and","Before proceeding with the troubleshooting guide, make sure the reagents used were prepared correctly and","Before proceeding with the troubleshooting guide, make sure the reagents used were prepared correctly and","Before proceeding with the troubleshooting guide, make sure the reagents used were prepared correctly and","Before proceeding with the troubleshooting guide, make sure the reagents used were prepared correctly and"
+"are not ""old.""","are not ""old.""",,,
+17.5.1,17.5.1,Unstable Baselines,,
+,17.5.1.1 Wavy baseline.,17.5.1.1 Wavy baseline.,The most common reason for a wavy baseline is an air bubble in the gradient,The most common reason for a wavy baseline is an air bubble in the gradient
+pump.,This problem is diagnosed by observing the pump head indicator lights on the gradient pump module,This problem is diagnosed by observing the pump head indicator lights on the gradient pump module,This problem is diagnosed by observing the pump head indicator lights on the gradient pump module,This problem is diagnosed by observing the pump head indicator lights on the gradient pump module
+front panel.,front panel.,"If the baseline is pulsing in phases with pump pistons, a bubble is usually present.","If the baseline is pulsing in phases with pump pistons, a bubble is usually present.",Other
+"possibilities include a dirty or stuck check valve, piston seal or ""O""-ring, as well as an air bubble in the","possibilities include a dirty or stuck check valve, piston seal or ""O""-ring, as well as an air bubble in the","possibilities include a dirty or stuck check valve, piston seal or ""O""-ring, as well as an air bubble in the","possibilities include a dirty or stuck check valve, piston seal or ""O""-ring, as well as an air bubble in the","possibilities include a dirty or stuck check valve, piston seal or ""O""-ring, as well as an air bubble in the"
+conductivity cell.,conductivity cell.,conductivity cell.,,
+,17.5.1.2 Drifting baseline. Steadily increasing or decreasing baselines usually indicate that the suppressor,17.5.1.2 Drifting baseline. Steadily increasing or decreasing baselines usually indicate that the suppressor,17.5.1.2 Drifting baseline. Steadily increasing or decreasing baselines usually indicate that the suppressor,17.5.1.2 Drifting baseline. Steadily increasing or decreasing baselines usually indicate that the suppressor
+column is not performing as it should.,column is not performing as it should.,column is not performing as it should.,Parameters to change include the regenerant and eluent concentrations,Parameters to change include the regenerant and eluent concentrations
+and flow rates.,and flow rates.,"Check temperature routinely, as changes in temperature can cause drifting.","Check temperature routinely, as changes in temperature can cause drifting.",Balancing these
+should stabilize the baseline if the suppressor is functioning correctly.,should stabilize the baseline if the suppressor is functioning correctly.,should stabilize the baseline if the suppressor is functioning correctly.,should stabilize the baseline if the suppressor is functioning correctly.,The Dionex manual describes clean-up
+procedures if the suppressor is believed to be contaminated.,procedures if the suppressor is believed to be contaminated.,procedures if the suppressor is believed to be contaminated.,procedures if the suppressor is believed to be contaminated.,
+,17.5.1.3,High baselines.,"As with drifting baselines, the parameters to change are eluent and regenerant","As with drifting baselines, the parameters to change are eluent and regenerant"
+concentrations and flow rates.,concentrations and flow rates.,concentrations and flow rates.,A high baseline usually indicates that there is not enough baseline suppression;,A high baseline usually indicates that there is not enough baseline suppression;
+this condition can be controlled by increasing the regenerant flow rate.,this condition can be controlled by increasing the regenerant flow rate.,this condition can be controlled by increasing the regenerant flow rate.,this condition can be controlled by increasing the regenerant flow rate.,
+,17.5.1.4,Low baselines.,"Low baselines usually indicate that there is too much suppression, which can","Low baselines usually indicate that there is too much suppression, which can"
+be controlled by decreasing the flow of the regenerant.,be controlled by decreasing the flow of the regenerant.,be controlled by decreasing the flow of the regenerant.,,
+17.5.2,17.5.2,Backpressure.,Variations in system backpressure are common and should not raise concern,Variations in system backpressure are common and should not raise concern
+UNLESS the pressure change is greater than 200 psi.,UNLESS the pressure change is greater than 200 psi.,UNLESS the pressure change is greater than 200 psi.,,
+,17.5.2.1,High backpressure.,The system is protected from pressure related damage through the high,The system is protected from pressure related damage through the high
+and low pressure alarm settings on the front panel of the gradient pump module.,and low pressure alarm settings on the front panel of the gradient pump module.,and low pressure alarm settings on the front panel of the gradient pump module.,and low pressure alarm settings on the front panel of the gradient pump module.,If the high pressure setting
+"is correctly selected (200 psi above normal operating range), the pump will automatically shut-off if this value","is correctly selected (200 psi above normal operating range), the pump will automatically shut-off if this value","is correctly selected (200 psi above normal operating range), the pump will automatically shut-off if this value","is correctly selected (200 psi above normal operating range), the pump will automatically shut-off if this value","is correctly selected (200 psi above normal operating range), the pump will automatically shut-off if this value"
+is exceeded.,is exceeded.,The reason for high backpressure is blockage in the system.,The reason for high backpressure is blockage in the system.,Possibilities include loading against
+"a closed valve, a plugged line, contaminated columns, etc.","a closed valve, a plugged line, contaminated columns, etc.","a closed valve, a plugged line, contaminated columns, etc.","a closed valve, a plugged line, contaminated columns, etc.",Diagnosis is done by removing one component of
+the system and observing how the pressure changes.,the system and observing how the pressure changes.,the system and observing how the pressure changes.,,
+,17.5.2.2,Low pressure.,Low pressure readings usually indicate a leak somewhere in the system.,Low pressure readings usually indicate a leak somewhere in the system.
+Carefully check all fittings for leaks.,Carefully check all fittings for leaks.,Carefully check all fittings for leaks.,Tighten if necessary.,
+17.5.3,17.5.3,Flow,,
+,17.5.3.1,Regenerant lines.,"If there is no flow at the waste outlet end of the regenerant line, check the","If there is no flow at the waste outlet end of the regenerant line, check the"
+following:,following:,,,
+,•,Make sure the correct regenerant switch is turned on,Make sure the correct regenerant switch is turned on,
+,•,Verify that the reservoir is not empty,,
+,•,Make sure the nitrogen tank is turned on,,
+,•,Check that the regulator is correctly set,,
+Page 4.2-24,Page 4.2-24,,Compendium of Methods for Inorganic Air Pollutants,June 1999

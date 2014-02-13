@@ -1,0 +1,45 @@
+Name: “Table 1 of 1 on page 25 of 68”,Name: “Table 1 of 1 on page 25 of 68”,Name: “Table 1 of 1 on page 25 of 68”,Name: “Table 1 of 1 on page 25 of 68”
+Table: 25,Table: 25,Table: 25,Table: 25
+,,,
+Chapter IO-4,Chapter IO-4,,Method IO-4.2
+Atmospheric Acidic,Atmospheric Acidic,,Acidic/Basic Constituents
+17.2.3,Cation eluent.,There are two cation eluents that are used for the analysis of monovalent and,There are two cation eluents that are used for the analysis of monovalent and
+divalent cations.,divalent cations.,"The strong cation eluent is: 48 mM HCl, 4 mM DAP.HCl (DAP = Diaminoproprionic acid),","The strong cation eluent is: 48 mM HCl, 4 mM DAP.HCl (DAP = Diaminoproprionic acid),"
+4 mM Histidine.HCl.,4 mM Histidine.HCl.,"The weak eluent consists of 12 mM HCl, 0.25 mM DAP.HCl, 0.25 mM Histidine.HCl.","The weak eluent consists of 12 mM HCl, 0.25 mM DAP.HCl, 0.25 mM Histidine.HCl."
+,17.2.3.1 Strong cation eluent.,17.2.3.1 Strong cation eluent.,Weigh 0.560 g DAP and 0.840 g histidine into a 1 L volumetric flask.
+Add 48 mL of 1 M HCl (Ultrex) to the flask.,Add 48 mL of 1 M HCl (Ultrex) to the flask.,Add 48 mL of 1 M HCl (Ultrex) to the flask.,Bring the eluent to the final volume by bringing to the mark with
+DDW.,Mix thoroughly to dissolve.,,
+,17.2.3.2,Weak cation eluent.,Place 63 mL of the strong cation eluent in a 1 L flask. Add 9 mL of 1
+M HCl to the flask.,M HCl to the flask.,Bring the eluent to the final volume by bringing to the mark with DDW. Mix thoroughly,Bring the eluent to the final volume by bringing to the mark with DDW. Mix thoroughly
+to dissolve.,,,
+17.2.4,Cation regenerant.,The cation regenerant consists of 100 mM tetrabutyl-ammonium hydroxide,The cation regenerant consists of 100 mM tetrabutyl-ammonium hydroxide
+(TBAOH). Place the TBAOH container into a warm water bath to dissolve any crystals that may have formed.,(TBAOH). Place the TBAOH container into a warm water bath to dissolve any crystals that may have formed.,(TBAOH). Place the TBAOH container into a warm water bath to dissolve any crystals that may have formed.,(TBAOH). Place the TBAOH container into a warm water bath to dissolve any crystals that may have formed.
+"Measure 266.7 mL of the TBAOH (stock reagent is supplied as 1.5 M, 40% in water) into a graduated cylinder.","Measure 266.7 mL of the TBAOH (stock reagent is supplied as 1.5 M, 40% in water) into a graduated cylinder.","Measure 266.7 mL of the TBAOH (stock reagent is supplied as 1.5 M, 40% in water) into a graduated cylinder.","Measure 266.7 mL of the TBAOH (stock reagent is supplied as 1.5 M, 40% in water) into a graduated cylinder."
+Add the TBAOH to 4 L of DDW.,Add the TBAOH to 4 L of DDW.,,
+17.2.5,Anion storage solution.,"Since the anion columns contain carbonates from the eluent, protection","Since the anion columns contain carbonates from the eluent, protection"
+must be taken against microorganisms that will live on this food source and clog up the columns. If the columns,must be taken against microorganisms that will live on this food source and clog up the columns. If the columns,must be taken against microorganisms that will live on this food source and clog up the columns. If the columns,must be taken against microorganisms that will live on this food source and clog up the columns. If the columns
+"are not being used for long periods of time (>2 weeks), a storage solution of 0.1 M NaOH should be pumped","are not being used for long periods of time (>2 weeks), a storage solution of 0.1 M NaOH should be pumped","are not being used for long periods of time (>2 weeks), a storage solution of 0.1 M NaOH should be pumped","are not being used for long periods of time (>2 weeks), a storage solution of 0.1 M NaOH should be pumped"
+into them.,,,
+17.3,Sample Preparation,,
+17.3.1,Mark the auto sampler vials with the appropriate identification numbers.,Mark the auto sampler vials with the appropriate identification numbers.,Place the vials in an IC
+autosampler tray.,autosampler tray.,,
+17.3.2,"Using clean, calibrated 0.5 mL pipets, transfer the denuder extract and the remainder of the filter","Using clean, calibrated 0.5 mL pipets, transfer the denuder extract and the remainder of the filter","Using clean, calibrated 0.5 mL pipets, transfer the denuder extract and the remainder of the filter"
+extracts from the extraction vials to a clean disposable 0.5 mL IC autosampler (polyethylene) vial.,extracts from the extraction vials to a clean disposable 0.5 mL IC autosampler (polyethylene) vial.,extracts from the extraction vials to a clean disposable 0.5 mL IC autosampler (polyethylene) vial.,Fill the
+autosampler vial to the line on the side.,autosampler vial to the line on the side.,autosampler vial to the line on the side.,
+"[Note: If refrigerated, the contents of the 10 mL extraction vial must be vortex-mixed prior to transfer to the","[Note: If refrigerated, the contents of the 10 mL extraction vial must be vortex-mixed prior to transfer to the","[Note: If refrigerated, the contents of the 10 mL extraction vial must be vortex-mixed prior to transfer to the","[Note: If refrigerated, the contents of the 10 mL extraction vial must be vortex-mixed prior to transfer to the"
+autosampler vials.],autosampler vials.],,
+17.3.3,Place black filter caps on top of the vials.,Place black filter caps on top of the vials.,Use the tool provided to push the caps into the vials until
+they are flush with the top,they are flush with the top,(see the IC manual for more detailed instructions).,
+17.3.4,Wipe away any excess fluid from the top of the vial to avoid contamination from other samples.,Wipe away any excess fluid from the top of the vial to avoid contamination from other samples.,Wipe away any excess fluid from the top of the vial to avoid contamination from other samples.
+17.3.5,"After all of the trays are filled, place them into the left side of the autosampler.","After all of the trays are filled, place them into the left side of the autosampler.",The white dot on
+the tray indicates the first sample. Press the button labeled RUN/HOLD to the RUN position. The trays should,the tray indicates the first sample. Press the button labeled RUN/HOLD to the RUN position. The trays should,the tray indicates the first sample. Press the button labeled RUN/HOLD to the RUN position. The trays should,the tray indicates the first sample. Press the button labeled RUN/HOLD to the RUN position. The trays should
+move until the first sample is under the sampling head.,move until the first sample is under the sampling head.,move until the first sample is under the sampling head.,The front panel should indicate a READY message.
+Press local/remove switch to remove.,Press local/remove switch to remove.,Press local/remove switch to remove.,
+17.4,Basic System Operations - Start-up and Shut-down,Basic System Operations - Start-up and Shut-down,
+[Note: This procedure is specific for one instrument. Other instruments can be used with these procedures.],[Note: This procedure is specific for one instrument. Other instruments can be used with these procedures.],[Note: This procedure is specific for one instrument. Other instruments can be used with these procedures.],[Note: This procedure is specific for one instrument. Other instruments can be used with these procedures.]
+17.4.1,Start-up Procedure for Ion Chromatograph.,Start-up Procedure for Ion Chromatograph.,
+,17.4.1.1,The major components of the Dionex 2020i Ion Chromatography system are illustrated in,The major components of the Dionex 2020i Ion Chromatography system are illustrated in
+Figure 14. Turn helium and nitrogen tanks on by opening the valve on top of each tank (pressure in either tank,Figure 14. Turn helium and nitrogen tanks on by opening the valve on top of each tank (pressure in either tank,Figure 14. Turn helium and nitrogen tanks on by opening the valve on top of each tank (pressure in either tank,Figure 14. Turn helium and nitrogen tanks on by opening the valve on top of each tank (pressure in either tank
+should not be less than 500 psi.).,should not be less than 500 psi.).,Replace if necessary.,Open valves at the outlet end of both regulators.
+Adjust pressure on the nitrogen regulator to 100 psi.,Adjust pressure on the nitrogen regulator to 100 psi.,Adjust pressure on the nitrogen regulator to 100 psi.,Adjust pressure on the helium regulator to 14 psi.
+June 1999,,Compendium of Methods for Inorganic Air Pollutants,Page 4.2-21

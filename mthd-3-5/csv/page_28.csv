@@ -1,0 +1,46 @@
+Name: “Table 1 of 1 on page 28 of 35”,Name: “Table 1 of 1 on page 28 of 35”,Name: “Table 1 of 1 on page 28 of 35”,Name: “Table 1 of 1 on page 28 of 35”
+Table: 28,Table: 28,Table: 28,Table: 28
+,,,
+Method IO-3.5,,,Chapter IO-3
+ICP/MS Methodology,,Chemical Analysis,Chemical Analysis
+,TABLE 2. (continued),,
+MATRIX MOLECULAR IONS,,,
+CHLORIDE,,,
+Polyatomic Ion,Mass,Element Interference,Element Interference
+35ClO+,51,V,
+35ClOH+,52,Cr,
+37ClO+,53,Cr,
+37ClOH+,54,Cr,
+Ar 35Cl+,75,As,
+Ar 37Cl+,77,Se,
+SULFATE,,,
+Polyatomic Ion,Mass,Element Interference,Element Interference
+32SO +,48,Ti,
+32SOH +,49,Ti,
+34SO +,50,"V, Cr","V, Cr"
+34SOH +,51,V,
+"SO 2, S2+",64,Zn,
+Ar 32S+,72,,
+Ar 34S+,74,,
+PHOSPHATE,,,
+Polyatomic Ion,Mass,Element Interference,Element Interference
+PO +,47,,
+POH +,48,,
+PO 2+,63,Cu,
+ArP 2,71,,
+"GROUP I, II METALS",,,
+Polyatomic Ion,Mass,Element Interference,Element Interference
+ArNa +,63,Cu,
+ArK +,79,,
+ArCa +,80,,
+MATRIX OXIDES 2,,,
+Polyatomic Ion,Masses,Element Interference,Element Interference
+TiO,62-66,"Ni, Cu, Zn","Ni, Cu, Zn"
+ZrO,106-112,"Ag, Cd","Ag, Cd"
+MoO,108-116,Cd,
+1Method elements or internal standards affected by the polyatomic ions.,1Method elements or internal standards affected by the polyatomic ions.,,
+2Oxide interferences will normally be very small and will only impact the method elements when present at relatively high,2Oxide interferences will normally be very small and will only impact the method elements when present at relatively high,2Oxide interferences will normally be very small and will only impact the method elements when present at relatively high,2Oxide interferences will normally be very small and will only impact the method elements when present at relatively high
+concentrations. Some examples of matrix oxides are listed of which the analyst should be aware. It is recommended that,concentrations. Some examples of matrix oxides are listed of which the analyst should be aware. It is recommended that,concentrations. Some examples of matrix oxides are listed of which the analyst should be aware. It is recommended that,concentrations. Some examples of matrix oxides are listed of which the analyst should be aware. It is recommended that
+"Ti and Zr isotopes are monitored in solid waste samples, which are likely to contain high levels of these elements. Mo is","Ti and Zr isotopes are monitored in solid waste samples, which are likely to contain high levels of these elements. Mo is","Ti and Zr isotopes are monitored in solid waste samples, which are likely to contain high levels of these elements. Mo is","Ti and Zr isotopes are monitored in solid waste samples, which are likely to contain high levels of these elements. Mo is"
+monitored as a method analyte.,,,
+Page 3.5-24,Compendium of Methods for Inorganic Air Pollutants,Compendium of Methods for Inorganic Air Pollutants,June 1999

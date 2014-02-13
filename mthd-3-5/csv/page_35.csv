@@ -1,0 +1,38 @@
+Name: “Table 1 of 1 on page 35 of 35”,Name: “Table 1 of 1 on page 35 of 35”,Name: “Table 1 of 1 on page 35 of 35”,Name: “Table 1 of 1 on page 35 of 35”
+Table: 35,Table: 35,Table: 35,Table: 35
+,,,
+Chapter IO-3,,,Method IO-3.5
+Chemical Analysis,,ICP/MS Methodology,ICP/MS Methodology
+TABLE 8. EXAMPLE OF QUALITY CONTROL REQUIREMENTS FOR ICP/MS ANALYSIS,TABLE 8. EXAMPLE OF QUALITY CONTROL REQUIREMENTS FOR ICP/MS ANALYSIS,TABLE 8. EXAMPLE OF QUALITY CONTROL REQUIREMENTS FOR ICP/MS ANALYSIS,TABLE 8. EXAMPLE OF QUALITY CONTROL REQUIREMENTS FOR ICP/MS ANALYSIS
+QC procedure,Typical frequency,Criteria,
+Initial calibration (IC),At the beginning of the analysis,None,
+Initial calibration verification,Immediately after initial,90%-110% of the actual,90%-110% of the actual
+(ICV) using the QCS,calibration,concentration,
+Initial calibration blank (ICB),Immediately after initial,May be less than project,May be less than project
+,calibration verification,detection limits (MDLs),detection limits (MDLs)
+High standard verification,Following the initial calibration,95%-105% of the actual,95%-105% of the actual
+(HSV),blank analysis,concentration,
+Interference check standard,Following the high standard,80%-120% of the actual,80%-120% of the actual
+(ICS),"verificatino, every 8 hours, and",concentration,
+,at the end of a run,,
+Continuing calibration,Analyzed before the first,90%-110% of the actual,90%-110% of the actual
+verification (CCV),"sample, after every 10 samples,",concentration,
+,and at the end of the run,,
+Continuing clarification blanks,Analyzed following each,Must be less than project,Must be less than project
+(CCBs),continuing calibration,detection limits (MDLs),detection limits (MDLs)
+,verification,,
+Reagent blank (RB) or Method,"1 per 40 samples, a minimum of",Must be less than project,Must be less than project
+blank (MB),1 per batch,detection limits (MDLs),detection limits (MDLs)
+Laboratory control spike (LCS),"1 per 20 samples, a minimum of","80%-120% recovery, with the","80%-120% recovery, with the"
+or Laboratory fortified blanks,1 per batch,exception of Ag and Sb,exception of Ag and Sb
+(LFB),,,
+Duplicate and/or spike,1 per sample batch,"RPD 
+    ",
+duplicate,,,
+Matrix spike (MS),1 per 20 samples per sample,Percent recovery of 75%-125%,Percent recovery of 75%-125%
+,batch,,
+Serial dilution,1 per sample batch,90%-110% of undiluted sample,90%-110% of undiluted sample
+Sample dilution,Dilute sample beneath the upper,As needed,
+,calibration limit but no lower,,
+,than at least 5X the MDL,,
+June 1999,Compendium of Methods for Inorganic Air Pollutants,Compendium of Methods for Inorganic Air Pollutants,Page 3.5-31

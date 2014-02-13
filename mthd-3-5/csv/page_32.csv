@@ -1,0 +1,44 @@
+Name: “Table 1 of 1 on page 32 of 35”,Name: “Table 1 of 1 on page 32 of 35”,Name: “Table 1 of 1 on page 32 of 35”,Name: “Table 1 of 1 on page 32 of 35”,Name: “Table 1 of 1 on page 32 of 35”,Name: “Table 1 of 1 on page 32 of 35”,Name: “Table 1 of 1 on page 32 of 35”,Name: “Table 1 of 1 on page 32 of 35”,Name: “Table 1 of 1 on page 32 of 35”,Name: “Table 1 of 1 on page 32 of 35”
+Table: 32,Table: 32,Table: 32,Table: 32,Table: 32,Table: 32,Table: 32,Table: 32,Table: 32,Table: 32
+,,,,,,,,,
+Method IO-3.5,Method IO-3.5,,,,,,,Chapter IO-3,Chapter IO-3
+ICP/MS Methodology,ICP/MS Methodology,,,,,,,Chemical Analysis,Chemical Analysis
+,,TABLE 7. PRECISION AND RECOVERY DATA,TABLE 7. PRECISION AND RECOVERY DATA,TABLE 7. PRECISION AND RECOVERY DATA,TABLE 7. PRECISION AND RECOVERY DATA,TABLE 7. PRECISION AND RECOVERY DATA,TABLE 7. PRECISION AND RECOVERY DATA,,
+,,,EPA HAZARDOUS SOIL #884,EPA HAZARDOUS SOIL #884,EPA HAZARDOUS SOIL #884,EPA HAZARDOUS SOIL #884,,,
+,Sample,Low,Average,,,High,Average,,
+,Concn.,Spike,Recovery,,,Spike,Recovery,,
+Element,(μg/L),(μg/L),R (%),S(R),RPD,(μg/L),R (%),S(R),RPD
+Al,5170,20,*,*,-,100,*,*,-
+Sb,5.4,20,69.8,2.5,4.7,100,70.4,1.8,6.5
+As,8.8,20,104.7,5.4,9.1,100,102.2,2.2,5.4
+Ba,113,20,54.9,63.6,18.6,100,91.0,9.8,0.5
+Be,0.6,20,100.1,0.6,1.5,100,102.9,0.4,1.0
+Cd,1.8,20,97.3,1.0,1.4,100,101.7,0.4,1.0
+Cr,83.5,20,86.7,16.1,8.3,100,105.5,1.3,0.0
+Co,7.1,20,98.8,1.2,1.9,100,102.9,0.7,1.8
+Cu,115,20,86.3,13.8,3.4,100,102.5,4.2,4.6
+Pb,152,20,85.0,45.0,13.9,100,151.7,25.7,23.7
+Mn,370,20,*,*,12.7,100,85.2,10.4,2.2
+Mo,4.8,20,95.4,1.5,2.9,100,95.2,0.7,2.0
+Ni,19.2,20,101.7,3.8,1.0,100,102.3,0.8,0.8
+Se,"
+    ",20,79.5,7.4,26.4,100,100.7,9.4,26.5
+Ag,1.1,20,96.1,0.6,0.5,100,94.8,0.8,2.3
+Tl,0.24,20,94.3,1.1,3.1,100,97.9,1.0,2.9
+Th,1.0,20,69.8,0.6,1.3,100,76.0,2.2,7.9
+U,1.1,20,100.1,0.2,0.0,100,102.9,0.0,0.0
+V,17.8,20,109.2,4.2,2.3,100,106.7,1.3,2.4
+Zn,128,20,87.0,27.7,5.5,100,113.4,12.9,14.1
+S(R),Standard deviation of percent recovery.,Standard deviation of percent recovery.,Standard deviation of percent recovery.,,,,,,
+RPD,Relative percent difference between duplicate spike determinations.,Relative percent difference between duplicate spike determinations.,Relative percent difference between duplicate spike determinations.,Relative percent difference between duplicate spike determinations.,Relative percent difference between duplicate spike determinations.,Relative percent difference between duplicate spike determinations.,,,
+"
+    ",Sample concentration below established method detection limit.,Sample concentration below established method detection limit.,Sample concentration below established method detection limit.,Sample concentration below established method detection limit.,Sample concentration below established method detection limit.,,,,
+*,"Spike concentration 
+    ","Spike concentration 
+    ","Spike concentration 
+    ","Spike concentration 
+    ","Spike concentration 
+    ",,,,
+-,Not determined.,,,,,,,,
++,Equivalent.,,,,,,,,
+Page 3.5-28,Page 3.5-28,Compendium of Methods for Inorganic Air Pollutants,Compendium of Methods for Inorganic Air Pollutants,Compendium of Methods for Inorganic Air Pollutants,Compendium of Methods for Inorganic Air Pollutants,Compendium of Methods for Inorganic Air Pollutants,Compendium of Methods for Inorganic Air Pollutants,,June 1999

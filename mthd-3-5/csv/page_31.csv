@@ -1,0 +1,48 @@
+Name: “Table 1 of 1 on page 31 of 35”,Name: “Table 1 of 1 on page 31 of 35”,Name: “Table 1 of 1 on page 31 of 35”,Name: “Table 1 of 1 on page 31 of 35”,Name: “Table 1 of 1 on page 31 of 35”,Name: “Table 1 of 1 on page 31 of 35”
+Table: 31,Table: 31,Table: 31,Table: 31,Table: 31,Table: 31
+,,,,,
+Chapter IO-3,Chapter IO-3,Chapter IO-3,,,Method IO-3.5
+Chemical Analysis,Chemical Analysis,Chemical Analysis,Chemical Analysis,,ICP/MS Methodology
+,,,TABLE 6. RECOMMENDED ELEMENTAL EQUATIONS FOR,TABLE 6. RECOMMENDED ELEMENTAL EQUATIONS FOR,
+,,,,DATA CALCULATIONS,
+,,Element,Element Equation,,Note
+,,A1,(1.000)(2 7C),,
+,,Sb,(1.000)(121 C),,
+,,As,(1.000)(75 C)-(3.127)[( 77 C)-(0.815)( 82 C)],(1.000)(75 C)-(3.127)[( 77 C)-(0.815)( 82 C)],(1)
+,,Ba,(1.000)(137 C),,
+,,Be,(1.000)(9 C),,
+,,Cd,(1.000)(111 C)-(1.073)[( 108 C)-(0.712)( 106 C)],(1.000)(111 C)-(1.073)[( 108 C)-(0.712)( 106 C)],(2)
+,,Cr,(1.000)(52 C),,(3)
+,,Co,(1.000)(59 C),,
+,,Cu,(1.000)(63 C),,
+,,Pb,(1.000)(206 C)+(1.000)( 207 C)+(1.000)( 208 C),(1.000)(206 C)+(1.000)( 207 C)+(1.000)( 208 C),(4)
+,,Mn,(1.000)(55 C),,
+,,Mo,(1.000)(98 C)-(0.146)( 99 C),,(5)
+,,Ni,(1.000)(60 C),,
+,,Se,(1.000)(82 C),,(6)
+,,Ag,(1.000)(107 C),,
+,,Tl,(1.000)(205 C),,
+,,Th,(1.000)(232 C),,
+,,U,(1.000)(238 C),,
+,,V,(1.000)(51 C)-(3.127)[( 53 C)-(0.113)( 52 C)],(1.000)(51 C)-(3.127)[( 53 C)-(0.113)( 52 C)],(7)
+,,Zn,(1.000)(66 C),,
+,,Bi,(1.000)(209 C),,
+,,In,(1.000)(115 C)-(0.016)( 118 C),,(8)
+,,Sc,(1.000)(45 C),,
+,,Tb,(1.000)(159 C),,
+,,Y,(1.000)(89 C),,
+C,-,calibration blank subtracted counts at specified mass.,calibration blank subtracted counts at specified mass.,calibration blank subtracted counts at specified mass.,
+(1) -,,correction for chloride interference with adjustment for Se77.,correction for chloride interference with adjustment for Se77.,correction for chloride interference with adjustment for Se77.,ArCl 75/77 ratio may be determined
+,,from the reagent blank.,from the reagent blank.,,
+(2) -,,correction for MoO interference.,correction for MoO interference.,An additional isobaric elemental correction should be made if,An additional isobaric elemental correction should be made if
+,,palladium is present.,palladium is present.,,
+(3) -,,"in 0.4% v/v HCl, the background from ClOH will normally be small.","in 0.4% v/v HCl, the background from ClOH will normally be small.","in 0.4% v/v HCl, the background from ClOH will normally be small.","However, the contribution may"
+,,be estimated from the reagent blank.,be estimated from the reagent blank.,,
+(4) -,,allowance for isotopic variability of lead isotopes.,allowance for isotopic variability of lead isotopes.,allowance for isotopic variability of lead isotopes.,
+(5) -,,isobaric elemental correction for ruthenium.,isobaric elemental correction for ruthenium.,,
+(6) -,,some argon supplies contain krypton as an impurity. Selenium is corrected for Kr82 by background,some argon supplies contain krypton as an impurity. Selenium is corrected for Kr82 by background,some argon supplies contain krypton as an impurity. Selenium is corrected for Kr82 by background,some argon supplies contain krypton as an impurity. Selenium is corrected for Kr82 by background
+,,subtraction.,subtraction.,,
+(7) -,,correction for chloride interference with adjustment for Cr53 ratio may be determined from the reagent,correction for chloride interference with adjustment for Cr53 ratio may be determined from the reagent,correction for chloride interference with adjustment for Cr53 ratio may be determined from the reagent,correction for chloride interference with adjustment for Cr53 ratio may be determined from the reagent
+,,blank.,,,
+(8) -,,isobaric elemental correction for tin.,isobaric elemental correction for tin.,,
+June 1999,June 1999,June 1999,Compendium of Methods for Inorganic Air Pollutants,Compendium of Methods for Inorganic Air Pollutants,Page 3.5-27
